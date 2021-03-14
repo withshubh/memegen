@@ -1,6 +1,6 @@
 version = 1
 
-test_patterns = ["app/tests/tes_*.py"]
+test_patterns = ["app/tests/test_*.py"]
 
 exclude_patterns = [
     "bin/**",
